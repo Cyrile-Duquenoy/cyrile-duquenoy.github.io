@@ -2,4 +2,4 @@
 
 # Links
 
-[Test](cyrile-duquenoy.github.io/docs) 
+[Test](/docs) 
