@@ -10,7 +10,7 @@ This site lists parts of my student works.
 
 [Ordinary Differential Equation (ODE)](/EDO)  
 [Finite Difference](/Finite_Difference)  
-[Fintite Element](/Finite_Element)
+[Finite Element](/Finite_Element)
 
 ## Music Playlist to Work/Study :  
 [Digimon World : Night Time in File City](https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s)  
