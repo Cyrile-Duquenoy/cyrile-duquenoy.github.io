@@ -1,12 +1,16 @@
 # About  
 
+French Mathematics Student based in Montpellier/Marseille, France.
+This site lists parts of my student works.
+
+#CV
 [CV](/CV)  
 
-# Links  
+# Studies 
 
-[Test](/docs)  
-[PDF Test](Test.pdf)  
 [Ordinary Differential Equation (ODE)](/EDO)  
+[Finite Difference](/Finite_Difference)  
+[Fintite Element](/Finite_Element)
 
 ## Music Playlist to Work/Study :  
 [Digimon World : Night Time in File City](https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s)  
