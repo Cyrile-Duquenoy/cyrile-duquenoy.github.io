@@ -4,7 +4,7 @@ French Mathematics Student based in Montpellier/Marseille, France.
 This site lists parts of my student works.
 
 # CV  
-[CV](/CV)  
+[CV](/CV/CV.pdf)  
 
 # Studies 
 
