@@ -12,9 +12,9 @@ This site lists parts of my student works.
 [Finite Difference](/Finite_Difference)  
 [Finite Element](/Finite_Element)
 
-#Master 1 Projects
+# Master 1 Projects  
 
-[Stefan Problem 1D by Finite Difference](/TER)
+[Stefan Problem 1D by Finite Difference](/TER)  
 [Finite Element 1D](/FEM)
 
 # Music Playlist to Work/Study :  
