@@ -14,7 +14,8 @@ This site lists parts of my student works.
 
 #Master 1 Projects
 
-[Stefan Problem 1D by Finite Difference][/TER]
+[Stefan Problem 1D by Finite Difference](/TER)
+[Finite Element 1D](/FEM)
 
 # Music Playlist to Work/Study :  
 [Digimon World : Night Time in File City](https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s)  
