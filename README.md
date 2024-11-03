@@ -22,7 +22,7 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 
 # Master 1 Projects  
 
-[Stefan Problem 1D by Finite Difference](/TER/Diapo TER 2024.pdf)  
+[Stefan Problem 1D by Finite Difference](/TER)  
 [Finite Element 1D](/FEM)
 
 # Music Playlist to Work/Study :  
