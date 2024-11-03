@@ -29,4 +29,9 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 [Zelda Piano](https://www.youtube.com/watch?v=ji7I9hoFab0)  
 [Liquid DnB](https://www.youtube.com/watch?v=Ktc23EfaMHg)  
 
+# Intersting Youtube Channels :  
+[Science4All](https://www.youtube.com/@le_science4all)  
+[El Jj](https://www.youtube.com/@ElJj)  
+[Hugo Lisoir](https://www.youtube.com/@hugolisoiryoutube)  
+
 
