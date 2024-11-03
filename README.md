@@ -18,7 +18,6 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 
 [Ordinary Differential Equation (ODE)](/EDO)  
 [Finite Difference](/Finite_Difference)  
-[Finite Element](/Finite_Element)
 
 # Master 1 Projects  
 
