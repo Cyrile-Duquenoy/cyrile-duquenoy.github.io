@@ -7,6 +7,7 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 
 [GitHub](https://github.com/Cyrile-Duquenoy)  
 [Linkedin](www.linkedin.com/in/cyrile-duquenoy-110420296)  
+[Master Modélisation et Analyse Numérique (MANU)](https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493.html)  
   
 
 # CV  
