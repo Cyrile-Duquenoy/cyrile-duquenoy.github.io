@@ -27,9 +27,9 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 # Others
 
 ## Interesting Youtube Channels :  
-[Science4All](https://www.youtube.com/@le_science4all)  
-[El Jj](https://www.youtube.com/@ElJj)  
-[Hugo Lisoir](https://www.youtube.com/@hugolisoiryoutube)  
+[Science4All](https://www.youtube.com/@le_science4all) Maths Videos.  
+[El Jj](https://www.youtube.com/@ElJj) Maths Videos.  
+[Hugo Lisoir](https://www.youtube.com/@hugolisoiryoutube) News about astronomy.
 
 ## Music Playlist to Work/Study :  
 [Digimon World : Night Time in File City](https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s)  
