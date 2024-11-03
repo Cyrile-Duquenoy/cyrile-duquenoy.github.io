@@ -8,6 +8,7 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 [GitHub](https://github.com/Cyrile-Duquenoy)  
 [Linkedin](https://www.linkedin.com/in/cyrile-duquenoy-110420296/)  
 [Master Modélisation et Analyse Numérique (MANU)](https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493.html)  
+[IMAG](https://imag.umontpellier.fr/)  
   
 
 # CV  
@@ -21,7 +22,7 @@ Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located 
 
 # Master 1 Projects  
 
-[Stefan Problem 1D by Finite Difference](/TER)  
+[Stefan Problem 1D by Finite Difference](/TER/DIAPO TER 2024.pdf)  
 [Finite Element 1D](/FEM)
 
 # Music Playlist to Work/Study :  
