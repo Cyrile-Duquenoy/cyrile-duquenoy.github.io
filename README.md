@@ -2,7 +2,7 @@
 
 French Mathematics Student based in Montpellier/Marseille, France.
 This site lists parts of my student works.  
-Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located in the PACA region or around Montpellier.  
+Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located in the PACA region or around Montpellier. In scientific computing, simulation and digital analysis. Data can also be included.  
 
 # CV  
 [CV](/CV/CV.pdf)  
