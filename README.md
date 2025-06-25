@@ -1,9 +1,9 @@
 # About  
 
-French Mathematics Student based in Montpellier/Marseille, France. Specialized in scientific calcul, simulation and numerical analysis.
+French Mathematics Student based in Marseille, France. Specialized in scientific calcul, simulation and numerical analysis.
 This site lists parts of my student works, some work in progress, links and others.  
   
-Looking for a 4 to 6 month internship starting on 1 March 2025. Ideally located in the PACA region or around Montpellier. In scientific computing, simulation and numerical analysis. Data can also be included.  
+Currently an intern at the LBA, Marseille (Biomechanics Laboratory).
 
 [GitHub](https://github.com/Cyrile-Duquenoy)  
 [Linkedin](https://www.linkedin.com/in/cyrile-duquenoy-110420296/)  
