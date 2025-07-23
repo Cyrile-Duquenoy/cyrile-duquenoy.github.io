@@ -20,14 +20,13 @@ Currently an intern at the LBA, Marseille (Biomechanics Laboratory).
 [Ordinary Differential Equation (ODE)](/EDO)  
 [Finite Difference](/Finite_Difference)  
 
-# Master 1 Projects  
+# Master Projects  
 
 [Stefan Problem 1D by Finite Difference](/TER)  
 [Finite Element 1D](/FEM)
 
-# Master 2 Projects  
-
-[High Hybrid Order (HHO)](/HHO) Work in Progress.  
+# Personal Projects  
+[FEM 2D (Poisson Problem)](https://github.com/Cyrile-Duquenoy/FEM_2D/)
 
 # Others
 
