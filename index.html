@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cyrile Duquenoy - Homepage</title>
+  <style>
+    /* Styles généraux */
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      margin: 5px 0;
+    }
+
+    /* Grille de tuiles */
+    main {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+    .tile {
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      transition: transform 0.3s ease;
+    }
+    .tile:hover {
+      transform: translateY(-5px);
+    }
+    .tile h2 {
+      margin-top: 0;
+    }
+    .tile ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .tile ul li {
+      margin: 5px 0;
+    }
+    .tile a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .tile a:hover {
+      text-decoration: underline;
+    }
+
+    /* Pied de page */
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cyrile Duquenoy</h1>
+    <p>French Mathematics Student | Marseille, France</p>
+  </header>
+
+  <main>
+    <div class="tile">
+      <h2>About</h2>
+      <p>French Mathematics Student based in Marseille, France. Specialized in scientific calcul, simulation and numerical analysis.</p>
+      <p>Currently an intern at the LBA, Marseille (Biomechanics Laboratory).</p>
+      <ul>
+        <li><a href="https://github.com/Cyrile-Duquenoy">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/cyrile-duquenoy-110420296/">LinkedIn</a></li>
+        <li><a href="https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493.html">Master MANU</a></li>
+        <li><a href="https://imag.umontpellier.fr/">IMAG</a></li>
+        <li><a href="https://lba.univ-gustave-eiffel.fr/">LBA</a></li>
+      </ul>
+    </div>
+
+    <div class="tile">
+      <h2>CV</h2>
+      <p><a href="/CV/CV_LateX.pdf">Download CV (PDF)</a></p>
+    </div>
+
+    <div class="tile">
+      <h2>Studies</h2>
+      <ul>
+        <li><a href="/EDO">Ordinary Differential Equation (ODE)</a></li>
+        <li><a href="/Finite_Difference">Finite Difference</a></li>
+      </ul>
+    </div>
+
+    <div class="tile">
+      <h2>Master Projects</h2>
+      <ul>
+        <li><a href="/TER">Stefan Problem 1D by Finite Difference</a></li>
+        <li><a href="/FEM">Finite Element 1D</a></li>
+      </ul>
+    </div>
+
+    <div class="tile">
+      <h2>Personal Projects</h2>
+      <ul>
+        <li><a href="https://github.com/Cyrile-Duquenoy/FEM_2D/">FEM 2D (Poisson Problem)</a></li>
+      </ul>
+    </div>
+
+    <div class="tile">
+      <h2>Others</h2>
+      <h3>Interesting Youtube Channels:</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/@le_science4all">Science4All</a> (Maths Videos)</li>
+        <li><a href="https://www.youtube.com/@ElJj">El Jj</a> (Maths Videos)</li>
+        <li><a href="https://www.youtube.com/@hugolisoiryoutube">Hugo Lisoir</a> (Astronomy)</li>
+      </ul>
+      <h3>Music Playlist to Work/Study:</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s">Digimon World OST</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ji7I9hoFab0">Zelda Piano</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Ktc23EfaMHg">Liquid DnB</a></li>
+      </ul>
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Cyrile Duquenoy
+  </footer>
+</body>
+</html>
