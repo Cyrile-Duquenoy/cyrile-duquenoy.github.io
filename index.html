@@ -76,12 +76,14 @@
     <p>French Mathematics Student | Marseille, France</p>
   </header>
 
-  <main>
-    <div class="tile">
-      <h2>About</h2>
+<main>
+  <!-- Partie haute : About -->
+  <section id="about" style="background:#f5f7fa; padding:3rem 1rem; text-align:center;">
+    <div style="max-width:800px; margin:0 auto;">
+      <h1>About</h1>
       <p>French Mathematics Student based in Marseille, France. Specialized in scientific calcul, simulation and numerical analysis.</p>
       <p>Currently an intern at the LBA, Marseille (Biomechanics Laboratory).</p>
-      <ul>
+      <ul style="list-style:none; padding:0; display:flex; justify-content:center; gap:1rem; flex-wrap:wrap;">
         <li><a href="https://github.com/Cyrile-Duquenoy">GitHub</a></li>
         <li><a href="https://www.linkedin.com/in/cyrile-duquenoy-110420296/">LinkedIn</a></li>
         <li><a href="https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493.html">Master MANU</a></li>
@@ -89,51 +91,39 @@
         <li><a href="https://lba.univ-gustave-eiffel.fr/">LBA</a></li>
       </ul>
     </div>
+  </section>
 
-    <div class="tile">
-      <h2>CV</h2>
-      <p><a href="/CV/CV_LateX.pdf">Download CV (PDF)</a></p>
-    </div>
+  <!-- Partie basse : Tuiles -->
+  <section id="tiles" style="background:#eaeef4; padding:3rem 1rem;">
+    <div style="max-width:1100px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:1.5rem;">
+      <div class="tile" style="background:white; border-radius:1rem; padding:1.5rem; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+        <h2>CV</h2>
+        <p><a href="/CV/CV_LateX.pdf">Download CV (PDF)</a></p>
+      </div>
 
-    <div class="tile">
-      <h2>Studies</h2>
-      <ul>
-        <li><a href="/EDO">Ordinary Differential Equation (ODE)</a></li>
-        <li><a href="/Finite_Difference">Finite Difference</a></li>
-      </ul>
-    </div>
+      <div class="tile" style="background:white; border-radius:1rem; padding:1.5rem; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+        <h2>Studies & Projects</h2>
+        <ul>
+          <li><a href="/EDO">Ordinary Differential Equation (ODE)</a></li>
+          <li><a href="/Finite_Difference">Finite Difference</a></li>
+          <li><a href="/TER">Stefan Problem 1D by Finite Difference</a></li>
+          <li><a href="/FEM">Finite Element 1D</a></li>
+          <li><a href="https://github.com/Cyrile-Duquenoy/FEM_2D/">FEM 2D (Poisson Problem)</a></li>
+        </ul>
+      </div>
 
-    <div class="tile">
-      <h2>Master Projects</h2>
-      <ul>
-        <li><a href="/TER">Stefan Problem 1D by Finite Difference</a></li>
-        <li><a href="/FEM">Finite Element 1D</a></li>
-      </ul>
+      <div class="tile" style="background:white; border-radius:1rem; padding:1.5rem; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+        <h2>Others</h2>
+        <ul>
+          <li><a href="https://www.youtube.com/@le_science4all">Science4All</a></li>
+          <li><a href="https://www.youtube.com/@ElJj">El Jj</a></li>
+          <li><a href="https://www.youtube.com/@hugolisoiryoutube">Hugo Lisoir</a></li>
+        </ul>
+      </div>
     </div>
+  </section>
+</main>
 
-    <div class="tile">
-      <h2>Personal Projects</h2>
-      <ul>
-        <li><a href="https://github.com/Cyrile-Duquenoy/FEM_2D/">FEM 2D (Poisson Problem)</a></li>
-      </ul>
-    </div>
-
-    <div class="tile">
-      <h2>Others</h2>
-      <h3>Interesting Youtube Channels:</h3>
-      <ul>
-        <li><a href="https://www.youtube.com/@le_science4all">Science4All</a> (Maths Videos)</li>
-        <li><a href="https://www.youtube.com/@ElJj">El Jj</a> (Maths Videos)</li>
-        <li><a href="https://www.youtube.com/@hugolisoiryoutube">Hugo Lisoir</a> (Astronomy)</li>
-      </ul>
-      <h3>Music Playlist to Work/Study:</h3>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=A-mfe5JuEeI&t=577s">Digimon World OST</a></li>
-        <li><a href="https://www.youtube.com/watch?v=ji7I9hoFab0">Zelda Piano</a></li>
-        <li><a href="https://www.youtube.com/watch?v=Ktc23EfaMHg">Liquid DnB</a></li>
-      </ul>
-    </div>
-  </main>
 
   <footer>
     © 2025 Cyrile Duquenoy
