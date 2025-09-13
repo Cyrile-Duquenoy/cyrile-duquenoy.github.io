@@ -1,0 +1,36 @@
+body { font-family: system-ui, sans-serif;
+    margin:0;
+    padding:0;
+    background:#f5f7fa;
+}
+
+header { text-align:center;
+    padding:2rem;
+    background:#1a1a1a;
+    color:white;
+}
+
+main { max-width:1100px;
+    margin:2rem auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:1.5rem;
+}
+
+.tile { background:white;
+    border-radius:1rem;
+    padding:1.5rem;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.tile:hover { transform: translateY(-5px);
+    box-shadow:0 8px 20px rgba(0,0,0,0.15);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: white;
+}
