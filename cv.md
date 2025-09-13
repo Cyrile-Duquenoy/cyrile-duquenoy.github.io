@@ -5,4 +5,5 @@ title: CV
 
 # CV
 
-- [Download CV (PDF)](/assets/PDF/CV_LateX.pdf)
+<a href="/assets/PDF/CV_LateX.pdf">Download (PDF)</a>
+
